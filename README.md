@@ -1,10 +1,4 @@
-<div align='center'>
-<img src=".github/logo.png" width='250'>
-</div>
-
 ## 🚀 Desafio
-
-Gostaria de te propor o desafio a seguir:
 
 Utilizando banco (de preferência MariaDB/MySQL/PostgreSQL), backend Java e Frontend Angular 2+.
 
@@ -30,10 +24,6 @@ Relatório das entradas, tendo as funções de uma Restful API (delete, put, get
 <a href='https://www.npmjs.com/package/angular-imask/'>iMask Angular</a>
 <br/>
 <a href='https://code.visualstudio.com/'>Visual Studio Code</a>
-
-# 📝 Sobre o projeto
-
-Este é um projeto para um processo seletivo. Seu principal objetivo é facilitar a avaliação dos recrutadores.
 
 ---
 
