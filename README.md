@@ -25,10 +25,6 @@ Relatório das entradas, tendo as funções de uma Restful API (delete, put, get
 <br/>
 <a href='https://code.visualstudio.com/'>Visual Studio Code</a>
 
-# 📝 Sobre o projeto
-
-Este é um projeto para um processo seletivo. Seu principal objetivo é facilitar a avaliação dos recrutadores.
-
 ---
 
 O aprendizado é contínuo e o próximo nível nunca será o último 🚀 by [aalvs](https://app.rocketseat.com.br/me/aalvs).
