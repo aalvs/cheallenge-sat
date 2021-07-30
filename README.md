@@ -1,10 +1,4 @@
-<div align='center'>
-<img src=".github/logo.png" width='250'>
-</div>
-
 ## 🚀 Desafio
-
-Gostaria de te propor o desafio a seguir:
 
 Utilizando banco (de preferência MariaDB/MySQL/PostgreSQL), backend Java e Frontend Angular 2+.
 
